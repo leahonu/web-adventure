@@ -1,0 +1,18 @@
+body{
+  padding: 0px;
+  overflow-x:hidden;
+}
+.navigation{
+}
+.home{
+  height: -webkit-fill-available;
+  text-align: -webkit-center;
+  margin-top: 20%;
+  font-family: initial;
+}
+.title{
+  font-size: -webkit-xxx-large;
+}
+.subtitle{
+  font-size: xx-large;
+}
